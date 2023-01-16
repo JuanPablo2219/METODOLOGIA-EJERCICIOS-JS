@@ -1,5 +1,5 @@
 const AGE5="20"
-let age="20";
+let age= prompt("ingresar edad");
 if(age<=AGE5){
     console.log("Bienvenido");
 }
